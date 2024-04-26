@@ -59,7 +59,7 @@ import ghostAgents
 ###################################################
 # YOUR INTERFACE TO THE PACMAN WORLD: A GameState #
 ###################################################
-
+#ssdadasdasdasd
 
 class GameState:
     """
